@@ -4,11 +4,12 @@ Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia
 
 ### Screenshot
 
-{{ Letakan gambar aplikasi disini }}
+<img src="robert.JPG?raw=true" height=400px/>
 
 ### Built With
 
-- widget Image, Text, Row, Column, dan Icon
+- Flutter
+- RatingBar Package
 
 ### Created By Robert
 
