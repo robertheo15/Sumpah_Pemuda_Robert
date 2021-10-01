@@ -4,7 +4,7 @@ Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia
 
 ### Screenshot
 
-<img src="robert.JPG?raw=true" height=400px/>
+<img src="robert.jpg?raw=true" height=400px/>
 
 ### Built With
 
