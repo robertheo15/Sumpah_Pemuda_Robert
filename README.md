@@ -1,4 +1,4 @@
-# {{Nama Aplikasi}} (Tugas kedua pemrograman mobile)
+# Aplikasi Ir. H. Soekarno (Tugas kedua pemrograman mobile)
 
 Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia
 
